@@ -1,0 +1,3 @@
+Carla
+Minimax 4 HeuristicaTaulell
+Dale carla soy aliado

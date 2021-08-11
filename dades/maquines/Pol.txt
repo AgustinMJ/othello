@@ -1,0 +1,3 @@
+Pol
+Minimax 2 HeuristicaNombrePeces
+Apurese

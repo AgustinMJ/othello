@@ -1,0 +1,20 @@
+Othello és un joc de taula amb 64 discs, que son blancs i negres.
+L’objectiu del joc és tenir la majoria de fitxes d’un color (depenent del que el jugador hagi triat, o bé  blanc o negre) al
+finalitzar el joc.
+REGLES I PROCEDIMENT GENERAL:
+	· Cada Jugador tria un color per jugar la partida.
+	· En iniciar el joc, es coloquen dues fitxes blanques i dues fitxes negres, col·locades de manera que en que ocupin els
+	    quatre quadrants del mig, de manera que a la part superior esquerra una fitxa blanca, a la part esquerra superior una
+	    negra, a la part baixa esquerra una fitxa negra i a la part baixa dieta una fitxa blanca.
+	· Comencen a moure fitxa les negres.
+	· En cada moviment, el jugador col.loca una fitxa del seu color de manera estratègica a la taula, de manera que “flanquegi”
+	    una o diverses fitxes de color contrari, és a dir que es col·loqui la fitxa de manera que es rodegi a alguna fitxa o
+	    fitxes de l’oponent. Les fitxes flanquejades passen a tenir el color del jugador que les ha “flanqueat”.
+	· És obligatori canviar de color totes les fitxes flanqueados entre la fitxa que es coloca i les que
+	  ja estaven col.locades.
+	· No es pot col·locar cap fitxa sense que toqui a cap altre fitxa, sempre ha d’estar unida a mínim una fitxa.
+	· Un cop girades les fitxes del torn anterior, passa a ser el torn del jugador contrari que proedeix de la mateixa manera
+	    amb les seves fitxes.
+	· Si un jugador no té manera de moure cap fitxa, el torn passa al contrari.
+	· La partida acaba quan cap dels dos jugadores pot moure cap fitxa, que normalment serà quan el taulell està ple o semiple
+	· Hi ha possibilitat d’empat.

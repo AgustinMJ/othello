@@ -1,0 +1,3 @@
+MonteCarles
+Minimax 3 HeuristicaTaulell
+Que?

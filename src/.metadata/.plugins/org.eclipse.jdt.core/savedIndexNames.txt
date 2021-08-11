@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/carles/IdeaProjects/subgrup-prop3-1/src/.metadata/.plugins/org.eclipse.jdt.core
+3015498994.index
+4145344255.index

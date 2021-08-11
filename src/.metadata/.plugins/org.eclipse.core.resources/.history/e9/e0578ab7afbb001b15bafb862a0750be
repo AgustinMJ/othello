@@ -1,0 +1,12 @@
+import javax.swing.JPanel;
+
+public class gre extends JPanel {
+
+	/**
+	 * Create the panel.
+	 */
+	public gre() {
+
+	}
+
+}
